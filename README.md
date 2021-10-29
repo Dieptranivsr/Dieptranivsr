@@ -17,23 +17,23 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+## 👨👩 Social 
 [![Github][github-shield]][github-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- [![wordpress][wordpress-shield]][wordpress-url] -->
 <!-- https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white -->
 
-## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Languages 
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
 
-## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 [![Overleaf][Overleaf-shield]][Overleaf-url]
 
-## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 IDE 
 
 
 [![git_stats][git_stats-shield]][github-url]
