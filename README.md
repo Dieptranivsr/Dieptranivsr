@@ -50,5 +50,5 @@ You can click the Preview link to take a look at your changes.
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/tu%E1%BA%A5n-%C4%91i%E1%BB%87p-tr%E1%BA%A7n-99b96616b/
 [product-screenshot]: images/screenshot.png
