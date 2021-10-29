@@ -24,12 +24,17 @@
 <!-- [![wordpress][wordpress-shield]][wordpress-url] -->
 <!-- https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white -->
 
+## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
 
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 [![Overleaf][Overleaf-shield]][Overleaf-url]
+
+## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
+
 
 [![git_stats][git_stats-shield]][github-url]
 
