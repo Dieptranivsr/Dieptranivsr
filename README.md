@@ -25,7 +25,7 @@
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
 
-https://github-readme-stats.vercel.app/api?username=Dieptranivsr
+[![C][git_stats-shield]][github-url]
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
@@ -55,3 +55,5 @@ You can click the Preview link to take a look at your changes.
 [c++-url]: https://en.wikipedia.org/wiki/C%2B%2B
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
+
+[git_stats-shield]: https://github-readme-stats.vercel.app/api?username=Dieptranivsr
