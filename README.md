@@ -29,6 +29,8 @@
 
 [![git_langs][git_langs-shield]][github-url]
 
+[![git_streak][git_streak-shield]][github-url]
+
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
 - 🌱 I’m currently learning ROS (Robot Operating System)
@@ -60,3 +62,4 @@ You can click the Preview link to take a look at your changes.
 
 [git_stats-shield]: https://github-readme-stats.vercel.app/api?username=Dieptranivsr
 [git_langs-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr
+[git_streak-shield]: https://github-readme-streak-stats.herokuapp.com/?user={username}
