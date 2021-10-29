@@ -20,8 +20,8 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![C][c-shield]][]
-[![C++][c++-shield]][]
+[![C][c-shield]][c-url]
+[![C++][c++-shield]][c++-url]
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
@@ -44,4 +44,6 @@ You can click the Preview link to take a look at your changes.
 [linkedin-url]: https://www.linkedin.com/in/tu%E1%BA%A5n-%C4%91i%E1%BB%87p-tr%E1%BA%A7n-99b96616b/
 
 [c-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[c-url]: https://en.wikipedia.org/wiki/C_(programming_language)
 [c++-shield]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[c++-url]: https://en.wikipedia.org/wiki/C%2B%2B
