@@ -20,6 +20,8 @@
 [![Github][github-shield]][github-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![wordpress][wordpress-shield]][wordpress-url] -->
+<!-- https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white -->
 
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
