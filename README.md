@@ -27,6 +27,7 @@
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
 
+[![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 [![Overleaf][Overleaf-shield]][Overleaf-url]
 
 [![git_stats][git_stats-shield]][github-url]
@@ -64,6 +65,8 @@ You can click the Preview link to take a look at your changes.
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
 
+[Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[Ubuntu-url]:https://ubuntu.com/
 [Overleaf-shield]: https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 [Overleaf-url]: https://www.overleaf.com/
 
