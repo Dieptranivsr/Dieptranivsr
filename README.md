@@ -11,13 +11,12 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Dieptranivsr&show_icons=true&count_private=true&theme=dark" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr&show_icons=true&count_private=true&theme=dark" width="500"></a>
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Dieptranivsr/alexandresanlim"></a> hipsters and nerds have come here 
 </p>
-
 
 <div id="top"></div>
 <!--
