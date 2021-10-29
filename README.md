@@ -46,6 +46,7 @@
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
+[![Java][java-shield]][java-url]
 
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
@@ -81,6 +82,8 @@ You can click the Preview link to take a look at your changes.
 [c++-url]: https://en.wikipedia.org/wiki/C%2B%2B
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
+[java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[java-url]: https://www.java.com/en/
 
 [Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Ubuntu-url]:https://ubuntu.com/
