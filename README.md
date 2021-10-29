@@ -20,8 +20,8 @@
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![C][c-shield]]
-[![C++][c++-shield]]
+[![C][c-shield]][]
+[![C++][c++-shield]][]
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
