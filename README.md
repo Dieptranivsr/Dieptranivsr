@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Dieptranivsr/alexandresanlim"></a> hipsters and nerds have come here 
+  <a href="#"><img src="https://badges.pufler.dev/visits/Dieptranivsr/Dieptranivsr"></a> hipsters and nerds have come here 
 </p>
 
 <div id="top"></div>
@@ -53,13 +53,6 @@
 
 ## 👩‍💻 IDE 
 
-
-[![git_stats][git_stats-shield]][github-url]
-
-[![git_langs][git_langs-shield]][github-url]
-
-[![git_streak][git_streak-shield]][github-url]
-
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
 - 🌱 I’m currently learning ROS (Robot Operating System)
@@ -93,7 +86,3 @@ You can click the Preview link to take a look at your changes.
 [Ubuntu-url]:https://ubuntu.com/
 [Overleaf-shield]: https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 [Overleaf-url]: https://www.overleaf.com/
-
-[git_stats-shield]: https://github-readme-stats.vercel.app/api?username=Dieptranivsr
-[git_langs-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr
-[git_streak-shield]: https://github-readme-streak-stats.herokuapp.com/?user=Dieptranivsr
