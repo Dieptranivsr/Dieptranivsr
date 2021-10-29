@@ -6,6 +6,10 @@
   A Embedded developer from Hanoi, Vietnam.
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Dieptranivsr&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
