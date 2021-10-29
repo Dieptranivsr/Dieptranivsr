@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[twitter-shield]: https://img.shields.io/badge/twitter-icon-b--555
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/DiepTra38267774
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tu%E1%BA%A5n-%C4%91i%E1%BB%87p-tr%E1%BA%A7n-99b96616b/
