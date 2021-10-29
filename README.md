@@ -62,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 
 [git_stats-shield]: https://github-readme-stats.vercel.app/api?username=Dieptranivsr
 [git_langs-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr
-[git_streak-shield]: https://github-readme-streak-stats.herokuapp.com/?user={username}
+[git_streak-shield]: https://github-readme-streak-stats.herokuapp.com/?user=Dieptranivsr
