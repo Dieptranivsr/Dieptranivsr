@@ -25,7 +25,8 @@
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
 
-[![C][git_stats-shield]][github-url]
+[![git_stats][git_stats-shield]][github-url]
+[![git_langs][git_langs-shield]][github-url]
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
@@ -57,3 +58,4 @@ You can click the Preview link to take a look at your changes.
 [python-url]: https://www.python.org/
 
 [git_stats-shield]: https://github-readme-stats.vercel.app/api?username=Dieptranivsr
+[git_langs-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr
