@@ -22,7 +22,7 @@
 
 [![C][c-shield]][c-url]
 [![C++][c++-shield]][c++-url]
-
+[![Python][python-shield]][python-url]
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
 - 🌱 I’m currently learning ROS (Robot Operating System)
@@ -47,3 +47,5 @@ You can click the Preview link to take a look at your changes.
 [c-url]: https://en.wikipedia.org/wiki/C_(programming_language)
 [c++-shield]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [c++-url]: https://en.wikipedia.org/wiki/C%2B%2B
+[python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org/
