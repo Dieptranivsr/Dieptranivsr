@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Dieptranivsr/Dieptranivsr"></a> hipsters and nerds have come here 
+  <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDieptranivsr1212%2Fhit-counterr"></a> hipsters and nerds have come here 
 </p>
 
 <div id="top"></div>
