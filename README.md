@@ -54,7 +54,7 @@
 [![Python][python-shield]][python-url]
 [![Java][java-shield]][java-url]
 
-## 🗝️ IDE 
+## 🛠️ IDE 
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)
@@ -65,15 +65,15 @@
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 
-## 💻 Simulation
+## 🗝️ Simulation
 ![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## Embedded Computer
+## :electron: Embedded Computer
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=Raspberry)
 ![Nvidia](https://img.shields.io/badge/-Nvidia_Jetson-green?style=flat-square&logo=Nvidia)
 
-## Computer
+## 🖥️ Computer
 ![Dell Precision](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
 ## Academic
