@@ -76,10 +76,10 @@
 ## 🖥️ Computer
 ![Dell Precision](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 
-## Academic
+## 💼 Academic
 [![Overleaf][Overleaf-shield]][Overleaf-url]
 
-## Adobe 
+## 🎞️ Adobe 
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![AdobePremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
