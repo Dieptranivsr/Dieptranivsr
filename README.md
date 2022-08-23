@@ -54,7 +54,7 @@
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 
 
-#### Embedded Computer
+## Embedded Computer
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=Raspberry)
 ![Nvidia](https://img.shields.io/badge/-Nvidia_Jetson-green?style=flat-square&logo=Nvidia)
 
