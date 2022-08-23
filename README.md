@@ -6,6 +6,12 @@
   A Embedded developer from Hanoi, Vietnam.
 </p>
 
+- 👋 Hi, I’m @Dieptranivsr
+- 👀 I’m interested in :airplane: 
+- 🌱 I’m currently learning ROS (Robot Operating System)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr&show_icons=true&count_private=true&theme=dark" width="300"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Dieptranivsr&show_icons=true&count_private=true&theme=dark" width="300"></a> 
@@ -77,11 +83,6 @@
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![AdobePremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-- 👋 Hi, I’m @Dieptranivsr
-- 👀 I’m interested in :airplane: 
-- 🌱 I’m currently learning ROS (Robot Operating System)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Dieptranivsr/Dieptranivsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
