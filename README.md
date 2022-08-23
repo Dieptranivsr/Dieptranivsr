@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in embedded software :airplane: 
-- 🌱 I’m used to learn ROS (Robot Operating System)
+- 🌱 I’m used to learning ROS (Robot Operating System)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
