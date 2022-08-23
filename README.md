@@ -48,11 +48,19 @@
 [![Python][python-shield]][python-url]
 [![Java][java-shield]][java-url]
 
+## 👩‍💻 IDE 
+
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
+
+
+#### Embedded Computer
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=Raspberry)
+![Nvidia](https://img.shields.io/badge/-Nvidia_Jetson-green?style=flat-square&logo=Nvidia)
+
+## Academic
 [![Overleaf][Overleaf-shield]][Overleaf-url]
 
-## 👩‍💻 IDE 
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
@@ -87,5 +95,6 @@ You can click the Preview link to take a look at your changes.
 
 [Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Ubuntu-url]:https://ubuntu.com/
+
 [Overleaf-shield]: https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 [Overleaf-url]: https://www.overleaf.com/
