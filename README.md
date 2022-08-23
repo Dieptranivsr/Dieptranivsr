@@ -56,7 +56,6 @@
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 
@@ -74,6 +73,9 @@
 ## Academic
 [![Overleaf][Overleaf-shield]][Overleaf-url]
 
+## Adobe 
+![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![AdobePremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in :airplane: 
