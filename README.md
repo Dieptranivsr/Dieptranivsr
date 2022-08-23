@@ -64,6 +64,9 @@
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-purple?style=flat-square&logo=Raspberry)
 ![Nvidia](https://img.shields.io/badge/-Nvidia_Jetson-green?style=flat-square&logo=Nvidia)
 
+## Computer
+![Dell Precision](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+
 ## Academic
 [![Overleaf][Overleaf-shield]][Overleaf-url]
 
