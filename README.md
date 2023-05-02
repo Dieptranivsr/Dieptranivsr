@@ -3,14 +3,13 @@
 </h1>
 
 <p align='center'>
-  A Embedded developer from Hanoi, Vietnam.
+  A Embedded developer from Hanoi, Vietnam. I've been working as Android Automotive OS System/ Middleware Engineer.
 </p>
 
 - 👋 Hi, I’m @Dieptranivsr
-- 👀 I’m interested in embedded software :airplane: 
+- 👀 I’m interested in embedded software :airplane:
+- 💻 I’ve experience working with applications running on QNX OS and Android
 - 🌱 I’m used to learning ROS (Robot Operating System)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieptranivsr&show_icons=true&count_private=true&theme=dark" width="300"></a>
