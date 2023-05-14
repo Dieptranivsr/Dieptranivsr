@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Embedded developer from Hanoi, Vietnam. I've been working as Android Automotive OS System/ Middleware Engineer.
+  An Embedded developer from Hanoi, Vietnam. I've been working as Android Automotive OS System/ Middleware Engineer.
 </p>
 
 - 👋 Hi, I’m @Dieptranivsr
