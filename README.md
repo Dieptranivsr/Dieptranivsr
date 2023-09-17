@@ -68,7 +68,7 @@
 [![QNXOperatingSytem][QNXOperatingSytem-shield]][QNXOperatingSytem-url]
 [![Docker][Docker-shield]][Docker-url]
 
-## Code Quality Tool
+## :atom:	Code Quality Tool
 [![sonarqube][sonarqube-shield]][sonarqube-url]
 [![Jenkins][Jenkins-shield]][Jenkins-url]
 
