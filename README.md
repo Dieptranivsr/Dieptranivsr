@@ -63,6 +63,7 @@
 
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
+![Unity 3D](https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=white)
 
 ## 🗝️ Simulation
 ![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
