@@ -69,6 +69,8 @@
 ## Code Quality Tool
 [![sonarqube][sonarqube-shield]][sonarqube-url]
 
+## Chip for Products
+
 ## 🗝️ Simulation
 ![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
@@ -118,6 +120,8 @@ You can click the Preview link to take a look at your changes.
 [QNXOperatingSytem-url]: https://blackberry.qnx.com/en/industries/connected-autonomous-vehicles
 [sonarqube-shield]: https://img.shields.io/badge/SONARQUBE-ecf2f9?style=for-the-badge&logo=SONARQUBE&logoColor=2b5988
 [sonarqube-url]: https://www.sonarsource.com/products/sonarqube/
+[Qualcomm-shield]: https://img.shields.io/badge/Qualcomm-1a1aff?style=for-the-badge&logo=Qualcomm&logoColor=White
+[Qualcomm-url]: https://www.qualcomm.com/products/automotive
 
 [Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Ubuntu-url]:https://ubuntu.com/
