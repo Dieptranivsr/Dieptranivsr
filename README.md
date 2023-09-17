@@ -64,6 +64,7 @@
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 [![AndroidAutomotive][AndroidAutomotive-shield]][AndroidAutomotive-url]
+[![QNXOperatingSytem][QNXOperatingSytem-shield]][QNXOperatingSytem-url]
 
 ## 🗝️ Simulation
 ![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -110,6 +111,8 @@ You can click the Preview link to take a look at your changes.
 [java-url]: https://www.java.com/en/
 [AndroidAutomotive-shield]: https://img.shields.io/badge/Android%20Automotive-3DDC84?style=for-the-badge&logo=Android&logoColor=white
 [AndroidAutomotive-url]: https://source.android.com/docs/automotive
+[QNXOperatingSytem-shield]: https://img.shields.io/badge/QNX%20Operating%20System-254d74?style=for-the-badge&logo=QNX&logoColor=whitle
+[QNXOperatingSytem-url]: https://blackberry.qnx.com/en/industries/connected-autonomous-vehicles
 
 [Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Ubuntu-url]:https://ubuntu.com/
