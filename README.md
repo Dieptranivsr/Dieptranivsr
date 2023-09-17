@@ -63,7 +63,7 @@
 
 ## 💻 OS 
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
-![Unity 3D](https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=white)
+[![AndroidAutomotive][AndroidAutomotive-shield]][AndroidAutomotive-url]
 
 ## 🗝️ Simulation
 ![Unity 3D](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -108,6 +108,8 @@ You can click the Preview link to take a look at your changes.
 [python-url]: https://www.python.org/
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/en/
+[AndroidAutomotive-shield](https://img.shields.io/badge/Android%20Automotive-100000?style=for-the-badge&logo=Android&logoColor=Green)
+[AndroidAutomotive-url](https://source.android.com/docs/automotive)
 
 [Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Ubuntu-url]:https://ubuntu.com/
