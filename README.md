@@ -134,8 +134,8 @@ You can click the Preview link to take a look at your changes.
 [Jenkins-shield]: https://img.shields.io/badge/Jenkins-ccebff?style=for-the-badge&logo=Jenkins&logoColor=black
 [Jenkins-url]: https://stories.jenkins.io/
 
-[Jenkins-shield]: https://img.shields.io/badge/Jenkins-e6f5ff?style=for-the-badge&logo=Jenkins&logoColor=black
-[Jenkins-url]:https://ubuntu.com/
+[Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[Ubuntu-url]:https://ubuntu.com/
 
 [Overleaf-shield]: https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 [Overleaf-url]: https://www.overleaf.com/
