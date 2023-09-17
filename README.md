@@ -61,7 +61,8 @@
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 💻 OS 
+## 💻 OS
+[![Windows11][Windows11-shield]][Windows11-url]
 [![Ubuntu][Ubuntu-shield]][Ubuntu-url]
 [![AndroidAutomotive][AndroidAutomotive-shield]][AndroidAutomotive-url]
 [![QNXOperatingSytem][QNXOperatingSytem-shield]][QNXOperatingSytem-url]
@@ -126,6 +127,8 @@ You can click the Preview link to take a look at your changes.
 [Qualcomm-url]: https://www.qualcomm.com/products/automotive
 [Docker-shield]: https://img.shields.io/badge/Docker-4db8ff?style=for-the-badge&logo=Docker&logoColor=White
 [Docker-url]: https://www.docker.com/products/business/
+[Windows11-shield]: https://img.shields.io/badge/Windows%2011-008ae6?style=for-the-badge&logo=Windows11&logoColor=White
+[Windows11-url]: https://www.microsoft.com/en-us/windows/windows-11?r=1
 
 [Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Ubuntu-url]:https://ubuntu.com/
