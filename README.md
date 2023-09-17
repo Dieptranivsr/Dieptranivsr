@@ -70,6 +70,7 @@
 
 ## Code Quality Tool
 [![sonarqube][sonarqube-shield]][sonarqube-url]
+[![Jenkins][Jenkins-shield]][Jenkins-url]
 
 ## Chip for Products
 [![Qualcomm][Qualcomm-shield]][Qualcomm-url]
@@ -130,8 +131,11 @@ You can click the Preview link to take a look at your changes.
 [Windows11-shield]: https://img.shields.io/badge/Windows%2011-008ae6?style=for-the-badge&logo=Windows11&logoColor=White
 [Windows11-url]: https://www.microsoft.com/en-us/windows/windows-11?r=1
 
-[Ubuntu-shield]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-[Ubuntu-url]:https://ubuntu.com/
+[Jenkins-shield]: https://img.shields.io/badge/Jenkins-ccebff?style=for-the-badge&logo=Jenkins&logoColor=black
+[Jenkins-url]: https://stories.jenkins.io/
+
+[Jenkins-shield]: https://img.shields.io/badge/Jenkins-e6f5ff?style=for-the-badge&logo=Jenkins&logoColor=black
+[Jenkins-url]:https://ubuntu.com/
 
 [Overleaf-shield]: https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white
 [Overleaf-url]: https://www.overleaf.com/
