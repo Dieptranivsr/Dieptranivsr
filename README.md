@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in embedded software :airplane:
-- 💻 I’ve experience working with applications running on QNX OS and Android
+- 💻 I’ve experience working with services/applications running on QNX OS and Android
 - 🌱 I used to study ROS (Robot Operating System)
 
 <p align='center'>
