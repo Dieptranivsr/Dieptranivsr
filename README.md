@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Dieptranivsr
 - 👀 I’m interested in embedded software :airplane:
-- 💻 I’ve experience working with services/applications running on QNX OS and Android
+- 💻 I’ve experience working with services/applications running on QNX OS and Android 12/14
 - 🌱 I used to study ROS (Robot Operating System)
 
 <p align='center'>
@@ -52,6 +52,7 @@
 [![C++][c++-shield]][c++-url]
 [![Python][python-shield]][python-url]
 [![Java][java-shield]][java-url]
+[![Kotlin][kotlin-shield]][kotlin-url]
 
 ## 🛠️ IDE 
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -118,6 +119,8 @@ You can click the Preview link to take a look at your changes.
 [python-url]: https://www.python.org/
 [java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [java-url]: https://www.java.com/en/
+[kotlin-shield]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
+[kotlin-url]: https://kotlinlang.org/
 [AndroidAutomotive-shield]: https://img.shields.io/badge/Android%20Automotive-3DDC84?style=for-the-badge&logo=Android&logoColor=white
 [AndroidAutomotive-url]: https://source.android.com/docs/automotive
 [QNXOperatingSytem-shield]: https://img.shields.io/badge/QNX%20Operating%20System-254d74?style=for-the-badge&logo=QNX&logoColor=whitle
